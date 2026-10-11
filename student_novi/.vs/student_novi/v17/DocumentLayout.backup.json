@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\VJEZBA\\student_novi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F4DBF8-E563-432B-B6F9-170B7AD1D256}|student_novi.vcxproj|C:\\Users\\Korisnik\\Desktop\\VJEZBA\\student_novi\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7F4DBF8-E563-432B-B6F9-170B7AD1D256}|student_novi.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VJEZBA\\student_novi\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VJEZBA\\student_novi\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-10T15:51:39.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
