@@ -1,0 +1,5 @@
+﻿  vjezbe3.c
+C:\Users\Korisnik\Desktop\VJEZBA\vjezbe 3\vjezbe3.c(117,39): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\Korisnik\Desktop\VJEZBA\vjezbe 3\vjezbe3.c(120,42): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\Korisnik\Desktop\VJEZBA\vjezbe 3\vjezbe3.c(123,45): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+  vjezbe 3.vcxproj -> C:\Users\Korisnik\Desktop\VJEZBA\vjezbe 3\x64\Debug\vjezbe 3.exe
